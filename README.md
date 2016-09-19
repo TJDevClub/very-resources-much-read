@@ -6,6 +6,7 @@ Here's a collection of reading material that will keep you occupied during ~~bor
 ### Reading
 - [codrops](http://tympanus.net/codrops/): great tutorials and inspiration
 - [css-tricks](http://css-tricks.com): great tutorials, not just about css
+- [chen hui jing](https://www.chenhuijing.com/#🎹): blog about web dev and design
 
 ### Videos
 - [Dev Tips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ): in-depth tutorials with insights from a Google employee
